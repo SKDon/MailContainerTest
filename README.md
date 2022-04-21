@@ -32,3 +32,11 @@ You should not change the method signature of the MakeMailTransfer method.
 You should add suitable tests into the MailContainerTest.Test project.
 
 There are no additional constraints, use the packages and approach you feel appropriate, aim to spend no more than 2 hours. Please update the readme with specific comments on any areas that are unfinished and what you would cover given more time.
+
+###Practices
+
+- Clean Architecture
+- Clean Code
+- SOLID Principles
+- Separation of Concerns
+- DDD (Domain-Driven Design)
