@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N9d9XlPdLl1V1Bun42lyQG84yy61JMdW8m1M6PiGZvtNojc6x0OMbdb8A1D0LDFLxbm/6CJStt42ts/y52w5wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atsuj\\source\\repos\\MailContainerTest\\MailContainerTest.Tests\\MailContainerTest.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atsuj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\atsuj\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\atsuj\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

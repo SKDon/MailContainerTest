@@ -1,0 +1,14 @@
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\bin\Debug\netstandard2.1\MailContainerTest.Tests.deps.json
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\bin\Debug\netstandard2.1\MailContainerTest.Tests.dll
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\bin\Debug\netstandard2.1\MailContainerTest.Tests.pdb
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\obj\Debug\netstandard2.1\MailContainerTest.Tests.csprojAssemblyReference.cache
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\obj\Debug\netstandard2.1\MailContainerTest.Tests.AssemblyInfoInputs.cache
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\obj\Debug\netstandard2.1\MailContainerTest.Tests.AssemblyInfo.cs
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\obj\Debug\netstandard2.1\MailContainerTest.Tests.dll
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\obj\Debug\netstandard2.1\MailContainerTest.Tests.pdb
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\bin\Debug\netstandard2.1\Application.dll
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\obj\Debug\netstandard2.1\MailContainerTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\atsuj\source\repos\MailContainerTest\MailContainerTest.Tests\obj\Debug\netstandard2.1\MailContainerTest.Tests.csproj.CopyComplete
