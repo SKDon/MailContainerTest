@@ -40,4 +40,4 @@ There are no additional constraints, use the packages and approach you feel appr
 - SOLID Principles
 - Separation of Concerns
 - DDD (Domain-Driven Design)
-- NUnit
+- NUnit suite
